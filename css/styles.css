@@ -194,10 +194,11 @@ only screen and (                min-resolution: 2dppx) {
   }
 
   .stats-preview-card__text {
-    margin-bottom: auto;
+    max-width: 23.375rem;
+    margin-bottom: 72px;
   }
 
   .stats-preview-card__stats {
-    gap: 64px;
+    gap: 30px;
   }
 }
