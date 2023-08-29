@@ -174,7 +174,7 @@ only screen and (                min-resolution: 2dppx) {
 
   .stats-preview-card__img {
     width: 540px;
-    height: 446px;
+    height: 100%;
     object-position: center;
   }
 
